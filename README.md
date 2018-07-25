@@ -26,15 +26,15 @@
 
 ## Example
 
-## Press Edit button to input your puzzle##
+# Press Edit button to input your puzzle #
 
 <img src="./assets/edit.png" width="350" align="middle">
 
-## Then press Done button to save the changes##
+# Then press Done button to save the changes #
 
 <img src="./assets/example.png" width="350" align="middle">
 
-## Finally press Run button and choose the method for solving the puzzle##
+# Finally press Run button and choose the method for solving the puzzle #
 
 <img src="./assets/solved.png" width="350" align="middle">
 
