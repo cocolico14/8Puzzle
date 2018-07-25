@@ -1,7 +1,7 @@
 # 8Puzzle
-solving 8 Puzzle with A*, Recursive Best First Search and BFS 
+> solving 8 Puzzle with A*, Recursive Best First Search and BFS 
 
-<img src="./assets/overview.png" width="750" align="middle">
+<img src="./assets/overview.png" width="550" align="middle">
 
 <hr />
 
@@ -26,17 +26,17 @@ solving 8 Puzzle with A*, Recursive Best First Search and BFS
 
 ## Example
 
-##Press Edit button to input your puzzle##
+## Press Edit button to input your puzzle ##
 
-<img src="./assets/edit.png" width="750" align="middle">
+<img src="./assets/edit.png" width="550" align="middle">
 
-##Then press Done button to save the changes##
+## Then press Done button to save the changes ##
 
-<img src="./assets/example.png" width="750" align="middle">
+<img src="./assets/example.png" width="550" align="middle">
 
-##Finally press Run button and choose the method for solving the puzzle##
+## Finally press Run button and choose the method for solving the puzzle ##
 
-<img src="./assets/solved.png" width="750" align="middle">
+<img src="./assets/solved.png" width="550" align="middle">
 
 
 <hr />
