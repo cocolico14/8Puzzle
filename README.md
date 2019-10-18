@@ -1,5 +1,5 @@
 # 8Puzzle
-> solving 8 Puzzle with A*, Recursive Best First Search and BFS 
+> Solving 8 Puzzle with A*, Recursive Best First Search and BFS 
 
 <img src="./assets/overview.png" width="350" align="middle">
 
